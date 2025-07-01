@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to LinuxWorld, India , in fully automated jenkins</h2>
-			<h3>Contact training@lwindia.com or mob 9351009002</h3>
+			<h2>Welcome to Vinayak_World, India , in fully automated jenkins</h2>
+			<h3>My name is Vinayak sen , </h3>
 		</div>	
 	</div>
 
